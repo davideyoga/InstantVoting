@@ -1,5 +1,3 @@
-//prova github
-
 package utilsDb;
 import java.io.File;
 import org.neo4j.graphdb.GraphDatabaseService;
